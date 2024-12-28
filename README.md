@@ -61,7 +61,7 @@ This project focuses on analyzing road accident data and visualizing key insight
 
 
 ---
-### Interactive Dashboard
+### Dashboard
 
 <img width="1059" alt="Screenshot 2024-12-28 at 12 44 31 PM" src="https://github.com/user-attachments/assets/26d168c0-ca27-42e7-b6d2-569aab352000" />
 
